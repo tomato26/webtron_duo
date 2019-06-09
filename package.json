@@ -1,0 +1,13 @@
+{
+		"name": "monotron",
+		"version": "1.0.0",
+		"dependencies": {
+				"grunt-contrib-coffee": "~0.7.0",
+				"grunt-contrib-less": "~0.5.0",
+				"grunt-contrib-watch": "~0.3.0",
+				"grunt-contrib-connect": "~0.3.0"
+		},
+		"devDependencies": {
+				"grunt": "^0.4.5"
+		}
+}
